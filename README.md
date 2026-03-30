@@ -41,7 +41,7 @@ It integrates with an external API to dynamically fetch color schemes and provid
 ---
 
 ## 🌐 Live Demo
-👉 https://opt-jay.github.io/color-scheme-generator/
+👉 [https://opt-jay.github.io/color-scheme-generator/](https://opt-jay.github.io/color-scheme-generator-app/)
 
 ---
 
